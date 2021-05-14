@@ -1,0 +1,10 @@
+C:\Users\forbe\source\repos\lab1cg\lab1cg\bin\Debug\lab1cg.exe.config
+C:\Users\forbe\source\repos\lab1cg\lab1cg\bin\Debug\lab1cg.exe
+C:\Users\forbe\source\repos\lab1cg\lab1cg\bin\Debug\lab1cg.pdb
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.csprojAssemblyReference.cache
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.Form1.resources
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.Properties.Resources.resources
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.csproj.GenerateResource.cache
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.csproj.CoreCompileInputs.cache
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.exe
+C:\Users\forbe\source\repos\lab1cg\lab1cg\obj\Debug\lab1cg.pdb
